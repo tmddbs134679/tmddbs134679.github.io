@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "송승윤"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "기술력이 **빠르게** 발전하는 시대에 맞춰, 기술을 터득하는 프로그래머 입니다."
-  location         : "Somewhere"
-  email            :
+  location         : "서울특별시 서대문구"
+  email            : "tmddbs134679@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
