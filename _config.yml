@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "송승윤 입니다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "송승윤"
 description              : "An amazing website."
 url                      : "https://tmddbs134679.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "기술력이 **빠르게** 발전하는 시대에 맞춰, 기술을 터득하는 프로그래머 입니다."
   location         : "Somewhere"
   email            :
   links:
